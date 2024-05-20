@@ -1,0 +1,35 @@
+CONSTRUÇÃO DA ANALISE
+1 - apresentação das variáveis (formato de tabela sla)
+
+2 - estudos preliminares
+analise do gráfico de correlação (muitas variáveis)
+analise dos gráficos de dispersão (poucas variáveis)
+
+3 - analise de adequabilidade da analise fatorial
+KMO ou Teste de esfericidade de bartlett
+para determinar se as variaveis possuem interdependência grande o suficiente para serem compiladas em um fator
+
+4 - decomposição espectral da matriz
+definindo autovalores e autovetores
+
+5 - determinação do número de fatores
+analise dos autovalores da matriz
+elaboração do screeplot
+
+6 - calculo das cargas fatoriais (loadings)
+analise e interpretação das cargas fatoriais
+apresentação da tabela
+e algum plot se for possível (m <= 3)
+calculo das comunalidades e sua interpretação (% de variância da variavel que é explicada pelos fatores)
+calculo da explicação de variância do modelo que é obtida pelos fatores
+
+APLICAÇÃO DE ALGUMA ROTAÇÃO
+
+7 - apresentação do diagrama de caminhos e equações de estimação das variáveis através da cl dos fatores
+
+8 - cálculo e análise dos resíduos
+estudo das medidas de especificidade
+
+9(opcional) - estimação dos escores fatoriais
+vendo como os pontos se portam nos fatores
+possivel analise de pontos aberrantes
